@@ -12,7 +12,7 @@ trampas <- c("TN", "TS", "TE", "TO", "TC1", "TC2")  # 6 trampas por parcela
 enlace_base <- "https://drive.google.com/drive/u/0/folders/"
 
 # Define la carpeta raíz en Drive (reemplaza por tu carpeta principal)
-carpeta_raiz <- as_id("1TdTl__GaQjIB4rCI3hWvJXssF2sLhnfx")
+carpeta_raiz <- as_id("")
 
 # Crear estructura de carpetas en Google Drive
 for (b in bloques) {
